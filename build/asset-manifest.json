@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e920ca3f.chunk.css",
+    "main.js": "./static/js/main.cf524b84.chunk.js",
+    "main.js.map": "./static/js/main.cf524b84.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7ddbc1c5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7ddbc1c5.js.map",
+    "static/css/2.7293bc6b.chunk.css": "./static/css/2.7293bc6b.chunk.css",
+    "static/js/2.c0b37c58.chunk.js": "./static/js/2.c0b37c58.chunk.js",
+    "static/js/2.c0b37c58.chunk.js.map": "./static/js/2.c0b37c58.chunk.js.map",
+    "static/js/3.9e507f13.chunk.js": "./static/js/3.9e507f13.chunk.js",
+    "static/js/3.9e507f13.chunk.js.map": "./static/js/3.9e507f13.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.7293bc6b.chunk.css.map": "./static/css/2.7293bc6b.chunk.css.map",
+    "static/css/main.e920ca3f.chunk.css.map": "./static/css/main.e920ca3f.chunk.css.map",
+    "static/js/2.c0b37c58.chunk.js.LICENSE.txt": "./static/js/2.c0b37c58.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/dots.527e97fb.png",
+    "static/media/home.8161b249.svg": "./static/media/home.8161b249.svg",
+    "static/media/liquidity.980d8319.svg": "./static/media/liquidity.980d8319.svg",
+    "static/media/swap.8e3da68c.svg": "./static/media/swap.8e3da68c.svg",
+    "static/media/telegram.67e7236e.svg": "./static/media/telegram.67e7236e.svg",
+    "static/media/twitter.b67f573e.svg": "./static/media/twitter.b67f573e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ddbc1c5.js",
+    "static/css/2.7293bc6b.chunk.css",
+    "static/js/2.c0b37c58.chunk.js",
+    "static/css/main.e920ca3f.chunk.css",
+    "static/js/main.cf524b84.chunk.js"
+  ]
+}

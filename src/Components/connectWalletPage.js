@@ -59,7 +59,7 @@ function ConnectWalletPage() {
             className={classes.title}
             color="common.white"
           >
-            Please connect a DogeChain wallet to your browser to use the dex
+            Please connect a BSC wallet to your browser to use the dex
           </Typography>
         </Paper>
       </Container>

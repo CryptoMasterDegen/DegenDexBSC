@@ -4,13 +4,6 @@ import liquidity from "../img/liquidity.svg"
 
 export const MenuItems = [
   {
-    title: "Bridge",
-    url: "https://bridge.dogechain.dog",
-    cName: "nav-links",
-    img: bridge,
-    isExternal: true,
-  },
-  {
     title: "Swap",
     url: "/",
     cName: "nav-links",
